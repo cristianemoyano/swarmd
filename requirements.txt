@@ -1,0 +1,4 @@
+typer
+docker
+jinja2
+pyyaml 
